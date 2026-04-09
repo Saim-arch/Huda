@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Huda/static/css/main.f7b3400f.css",
-    "main.js": "/Huda/static/js/main.eb67d61b.js",
+    "main.js": "/Huda/static/js/main.6956653f.js",
     "static/js/453.1f0517e3.chunk.js": "/Huda/static/js/453.1f0517e3.chunk.js",
     "index.html": "/Huda/index.html",
     "main.f7b3400f.css.map": "/Huda/static/css/main.f7b3400f.css.map",
-    "main.eb67d61b.js.map": "/Huda/static/js/main.eb67d61b.js.map",
+    "main.6956653f.js.map": "/Huda/static/js/main.6956653f.js.map",
     "453.1f0517e3.chunk.js.map": "/Huda/static/js/453.1f0517e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7b3400f.css",
-    "static/js/main.eb67d61b.js"
+    "static/js/main.6956653f.js"
   ]
 }
