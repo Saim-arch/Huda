@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/huda/static/css/main.f7b3400f.css",
+    "main.js": "/huda/static/js/main.c4512c57.js",
+    "static/js/453.1f0517e3.chunk.js": "/huda/static/js/453.1f0517e3.chunk.js",
+    "index.html": "/huda/index.html",
+    "main.f7b3400f.css.map": "/huda/static/css/main.f7b3400f.css.map",
+    "main.c4512c57.js.map": "/huda/static/js/main.c4512c57.js.map",
+    "453.1f0517e3.chunk.js.map": "/huda/static/js/453.1f0517e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b3400f.css",
+    "static/js/main.c4512c57.js"
+  ]
+}
